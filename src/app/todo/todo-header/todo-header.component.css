@@ -1,0 +1,9 @@
+p {
+    text-align: left;
+    background-color: #44FFD1;
+    color: #000000;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    font-weight: bold;
+}

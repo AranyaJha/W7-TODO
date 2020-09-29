@@ -1,0 +1,12 @@
+label {
+    font-size: larger;
+    margin-left: 45%;
+}
+
+input {
+    font-family: sans-serif;
+    padding: 5px;
+    background-color: #FCF5C7;
+    margin-left: 25%;
+    width: 50%;
+}
